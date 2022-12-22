@@ -40,8 +40,24 @@ ANBD(아나바다)는, 평소 잘 사용하지 않는 레저용품들을, 필요
 | **판매점 등록&상세페이지** | **판매점 목록** |
 | ![createDetail](https://user-images.githubusercontent.com/56163157/209108253-11fb392e-93d0-4708-8ede-0d6b557aac00.gif) | ![list](https://user-images.githubusercontent.com/56163157/209108076-dd6ccac1-93fa-42ef-aaec-da90347d2750.gif) |
 
-
 <br/>
 
 ## ✏️ 사용스택
 <img width="1600" alt="스크린샷 2022-10-07 오전 2 52 42" src="https://user-images.githubusercontent.com/56163157/194384251-d04aa070-8289-42aa-9d25-33807a7a0cec.png">
+
+<br/>
+
+## 📨 Commit Message Convention
+
+| Tag Name | Description |
+|---|---|
+| feat | 새로운 기능을 추가할 경우 |
+| fix | 버그를 고친 경우 |
+| design | CSS 등 사용자 UI 디자인 변경 |
+| style | 코드 포맷 변경, 세미 콜론 누락, 코드 수정이 없는 경우 |
+| chore | 빌드 테스트 업데이트, 패키지 매니저를 설정하는 경우 |
+| refactor | 코드 리팩토링 |
+| comment | 필요한 주석 추가 및 변경 |
+| docs | 문서를 수정한 경우 |
+| rename | 파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우 |
+| remove | 파일을 삭제하는 작업만 수행한 경우 |
