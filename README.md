@@ -4,7 +4,7 @@
 
 ANBD(아나바다)는, 평소 잘 사용하지 않는 레저용품들을, 필요로하는 사람에게 대여해주는 플랫폼입니다.   
 >개발기간: 2022.09.07 ~ 2022.10.12   
->배포링크: ~~~https://d1chxyssw587bm.cloudfront.net/~~~ 2023.07.03 배포중단
+>배포링크: ~~~https://d1chxyssw587bm.cloudfront.net/~~~ 2023.07.03 배포중단   
 >프로젝트 문서: [문서 바로가기](https://cho-min-woo.notion.site/SEB_main_project-71fbbc3952ae4b0da540a0b2b84b1537)
 
 <br/>
